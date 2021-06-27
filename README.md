@@ -1,3 +1,3 @@
 # Machine Learning Intro
 
-## [PR link]()
+## [PR link](https://github.com/ebrahimayyad11/text-classifier/pull/1)
